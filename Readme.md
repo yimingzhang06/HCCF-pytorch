@@ -1,3 +1,5 @@
+# HCCF-pytorch
+
 This is a Pytorch Version for the paper on SIGIR 2022.
 <Lianghao Xia, Chao Huang, Yong Xu, Jiashu Zhao, Dawei Yin, Jimmy Xiangji Huang (2022). Hypergraph Contrastive Collaborative Filtering>
 
@@ -13,3 +15,4 @@ Notes:
 3. Please create a Folder named 'Model' under your current path for saving the results.
 4. You can use Google Colab to quickly review and run the code by uploading the <hccf_for_github.ipynb>. 
 5. The result is the same as the TF version.
+6. Happy coding.
